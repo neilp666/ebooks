@@ -1,28 +1,17 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+buy and sell ebooks - beta version
 
-Things you may want to cover:
+* Ruby 2.0.0
 
-* Ruby version
+* Rails 4.1.7
 
-* System dependencies
+* Boostrap 3
 
-* Configuration
+* Development Database - Sqlite
 
-* Database creation
+* Production Database - Postgres
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Stripe 
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
