@@ -15,4 +15,5 @@ gem 'simple_form'
 gem 'devise'
 gem 'cancan'
 gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
+gem 'dotenv-rails', group: :development
 
